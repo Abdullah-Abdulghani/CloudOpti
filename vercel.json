@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd cloudopti-dashboard && npm run build",
+  "outputDirectory": "cloudopti-dashboard/build",
+  "framework": "create-react-app"
+}
