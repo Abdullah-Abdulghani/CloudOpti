@@ -38,7 +38,7 @@ CloudOpti offers a full-stack solution to reclaim your wasted budget:
 ## 📺 Live Demo
 Watch CloudOpti in action! This video demonstrates how the Intelligence Engine detects underutilized resources and how the dashboard enables one-click cost savings.
 
-[![CloudOpti Demo Video](https://drive.google.com/file/d/1woerphHmc0O2K-IblD63lF7HryVi-bJ-/view?usp=sharing)]
+[![CloudOpti Demo Video] https://drive.google.com/file/d/1woerphHmc0O2K-IblD63lF7HryVi-bJ-/view?usp=sharing
 
 > **Note:** The demo showcases a real-world scenario achieving a **35% reduction** in cloud operational costs.
 ## 📄 License
